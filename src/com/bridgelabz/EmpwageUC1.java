@@ -1,9 +1,7 @@
 package com.bridgelabz;
 
 public class EmpwageUC1 {
-
-
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         System.out.println("Attendance");
         int Attendance = 1;
         double empcheck = Math.floor(Math.random() * 10) % 2;
